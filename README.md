@@ -1,4 +1,4 @@
-# 🤖 Finance Chatbot using RAG (LangChain + OpenAI + FAISS)
+# 🤖 Financebot using RAG (LangChain + OpenAI + FAISS)
 
 ## 🔍 Overview
 This is a **Finance Question-Answering Chatbot** built using **LangChain**, **OpenAI (LLM & Embeddings)**, and **FAISS** for vector search. It reads finance-related articles from URLs, splits the content into chunks, embeds them, and stores them in a vector database. Using **Retrieval-Augmented Generation (RAG)**, it allows users to ask questions about the content through an interactive **Streamlit** app.
